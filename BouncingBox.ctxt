@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=startX\ startY\ startColor
+comment0.target=BouncingBox(int,\ int,\ java.awt.Color)
+comment0.text=\n\ Initialize\ a\ new\ box\ with\ its\ center\ located\ at\ (startX,\ startY),\ filled\n\ with\ startColor.\n
+comment1.params=surface
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=Draws\ the\ box\ at\ its\ current\ position\ on\ to\ surface.
+comment2.params=xIncrement\ yIncrement
+comment2.target=void\ setMovementVector(int,\ int)
+numComments=3

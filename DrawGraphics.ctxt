@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawGraphics()
+comment0.text=Initializes\ this\ class\ for\ drawing.
+comment1.params=surface
+comment1.target=void\ drawGraph(java.awt.Graphics)
+comment2.params=surface
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=Draw\ the\ contents\ of\ the\ window\ on\ surface.\ Called\ 20\ times\ per\ second.
+numComments=3

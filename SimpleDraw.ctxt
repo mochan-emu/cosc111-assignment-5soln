@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=drawer
+comment0.target=SimpleDraw(DrawGraphics)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=Paint\ callback\ from\ Swing.\ Draw\ graphics\ using\ g.
+comment2.params=
+comment2.target=void\ start()
+comment2.text=Enables\ periodic\ repaint\ calls.
+comment3.params=
+comment3.target=void\ stop()
+comment3.text=Pauses\ animation.
+comment4.params=
+comment4.target=boolean\ animationEnabled()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=e
+comment7.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment8.params=e
+comment8.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+comment9.params=e
+comment9.target=void\ windowIconified(java.awt.event.WindowEvent)
+numComments=10

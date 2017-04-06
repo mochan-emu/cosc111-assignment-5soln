@@ -1,2 +1,1 @@
-# assignment-5
-Assignment 5 for COSC 111
+# cosc111-assignment-5b
