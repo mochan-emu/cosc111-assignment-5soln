@@ -1,2 +1,2 @@
-# cosc111-assignment-5soln
-Solution for Assignment 5
+# assignment-5
+Assignment 5 for COSC 111
